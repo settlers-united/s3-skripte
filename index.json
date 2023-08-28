@@ -1,0 +1,162 @@
+[
+  {
+    "scriptType":"global",
+    "createdAt": "28.08.2023",
+    "author": "Saibot",
+    "forMap":"",
+    "name": "Print AI Defeat Message",
+    "description": "Prints the defeat message for Ai player 1 - 4 if they do not have a tower anymore.",
+    "scriptSha256": "EC2F4E2F775D6E9B02584E30FE4B4881206452CEBBD4FCF5866C22C7826314F9",
+    "scriptUrl": "https://raw.githubusercontent.com/settlers-united/S3-Skripte/main/global/playerisDeadMessageP1-P4.json"
+  },
+  {
+    "scriptType":"map",
+    "createdAt": "28.08.2023",
+    "author": "Saibot",
+    "forMap":"Art_Of_Defense_SNAKE.map",
+    "name": "Default",
+    "description": "spawns the default units",
+    "scriptSha256": "90E83F38DA83735EFD277BC2E83A4A99C2432F9D47F6F4D8F4B980E68E5F94FD",
+    "scriptUrl": "https://raw.githubusercontent.com/settlers-united/S3-Skripte/main/maps/Art_Of_Defense_SNAKE/Default.json"
+  },
+  {
+    "scriptType":"map",
+    "createdAt": "28.08.2023",
+    "author": "Saibot",
+    "forMap":"0_ARENA_TEST_12er.map",
+    "name": "Default",
+    "description": "Sword, Bow, Spear or Mana can be selected by the player, spawning it at the players Base. Players can battle themselves without building.",
+    "scriptSha256": "350831D423B6874A3D7238CC975F1926F2FE10EDF366B75C2112E15C534FBECA",
+    "scriptUrl": "https://raw.githubusercontent.com/settlers-united/S3-Skripte/main/maps/0_ARENA_TEST_12er.map/Default.json"
+  },
+  {
+    "scriptType":"global",
+    "createdAt": "27.08.2023",
+    "author": "Saibot",
+    "forMap":"",
+    "name": "Hunt_The_Pope",
+    "description": "A Player looses if they dont have a priest after minute 35. Once they have a priest BigTemples are crushed.",
+    "scriptSha256": "49112797E88F622DA78919AA7023D0F97291AA1869B5FC3666C0D885DF5934CD",
+    "scriptUrl": "https://raw.githubusercontent.com/settlers-united/S3-Skripte/main/global/Hunt_The_Pope.json"
+  },
+  {
+    "scriptType":"global",
+    "createdAt": "27.08.2023",
+    "author": "Saibot",
+    "forMap":"",
+    "name": "No_Bows_No_AI",
+    "description": "Effectively disables the use of bows by removing them from the map and changing production values to 0. Also disables AI",
+    "scriptSha256": "6F9921830372E553322061002D006C9729121C0314EFD2E8E945BAA9097394AB",
+    "scriptUrl": "https://raw.githubusercontent.com/settlers-united/S3-Skripte/main/global/No_Bows_No_AI.json"
+  },
+  {
+    "scriptType":"global",
+    "createdAt": "27.08.2023",
+    "author": "Saibot",
+    "forMap":"",
+    "name": "No_Bows_With_AI",
+    "description": "Effectively disables the use of bows by removing them from the map and changing production values to 0. AI stays enabled",
+    "scriptSha256": "8969C800D998F2758C45C3735AF5F9F4794D823AD172DDA6CF2518F860A71D15",
+    "scriptUrl": "https://raw.githubusercontent.com/settlers-united/S3-Skripte/main/global/No_Bows_With_AI.json"
+  },
+  {
+    "scriptType":"global",
+    "createdAt": "27.08.2023",
+    "author": "Saibot",
+    "forMap":"",
+    "name": "No_Spears_No_AI",
+    "description": "Effectively disables the use of spears by removing them from the map and changing production values to 0. Also disables AI",
+    "scriptSha256": "67B1AD54D826F9E2266C6CE81DCA5DE5741DB79D0AA8DF5245E8719F5C925B8A",
+    "scriptUrl": "https://raw.githubusercontent.com/settlers-united/S3-Skripte/main/global/No_Spears_No_AI.json"
+  },
+  {
+    "scriptType":"global",
+    "createdAt": "27.08.2023",
+    "author": "Saibot",
+    "forMap":"",
+    "name": "No_Spears_With_AI",
+    "description": "Effectively disables the use of spears by removing them from the map and changing production values to 0. AI stays enabled",
+    "scriptSha256": "81304850E77E80273E26D703BD21A1CDCBF82A96E51D48FC87052991ACC44D2A",
+    "scriptUrl": "https://raw.githubusercontent.com/settlers-united/S3-Skripte/main/global/No_Spears_With_AI.json"
+  },
+  {
+    "scriptType":"global",
+    "createdAt": "27.08.2023",
+    "author": "Saibot",
+    "forMap":"",
+    "name": "No_Swords_No_AI",
+    "description": "Effectively disables the use of swords by removing them from the map and changing production values to 0. Also disables AI",
+    "scriptSha256": "A48C9144A5CE616BE58F56A4BD4A00951F800E92E4F265DE1061BF21385A42B5",
+    "scriptUrl": "https://raw.githubusercontent.com/settlers-united/S3-Skripte/main/global/No_Swords_No_AI.json"
+  },
+  {
+    "scriptType":"global",
+    "createdAt": "27.08.2023",
+    "author": "Saibot",
+    "forMap":"",
+    "name": "No_Swords_With_AI",
+    "description": "Effectively disables the use of swords by removing them from the map and changing production values to 0. AI stays enabled",
+    "scriptSha256": "7B3EEB5B81F4EA2C38A4F8C6B0C3A30422A73D37DB9FCE677B3F34CB14D97CBC",
+    "scriptUrl": "https://raw.githubusercontent.com/settlers-united/S3-Skripte/main/global/No_Swords_With_AI.json"
+  },
+  {
+    "scriptType":"global",
+    "createdAt": "27.08.2023",
+    "author": "Saibot",
+    "forMap":"",
+    "name": "Only_Bows_No_AI",
+    "description": "Effectively disables the use of spears and swords by removing them from the map and changing production values to 0. Also disables AI",
+    "scriptSha256": "11796EA273743032B82CE918E7F67E2C3947B730FEBA30A08D17D5981F1BB25A",
+    "scriptUrl": "https://raw.githubusercontent.com/settlers-united/S3-Skripte/main/global/Only_Bows_No_AI.json"
+  },
+  {
+    "scriptType":"global",
+    "createdAt": "27.08.2023",
+    "author": "Saibot",
+    "forMap":"",
+    "name": "Only_Bows_With_AI",
+    "description": "Effectively disables the use of spears and swords by removing them from the map and changing production values to 0. AI stays enabled",
+    "scriptSha256": "3D2F03A376411F845DA48A3DE0218A67EBE8E5993EAC90E0C355265460CC4DAF",
+    "scriptUrl": "https://raw.githubusercontent.com/settlers-united/S3-Skripte/main/global/Only_Bows_With_AI.json"
+  },
+  {
+    "scriptType":"global",
+    "createdAt": "27.08.2023",
+    "author": "Saibot",
+    "forMap":"",
+    "name": "Only_Spears_No_AI",
+    "description": "Effectively disables the use of swords and bows by removing them from the map and changing production values to 0. Also disables AI",
+    "scriptSha256": "FFCD3713E5EF969055EE7673622E9FA62E6906466238F38D97D2A566900404A1",
+    "scriptUrl": "https://raw.githubusercontent.com/settlers-united/S3-Skripte/main/global/Only_Spears_No_AI.json"
+  },
+  {
+    "scriptType":"global",
+    "createdAt": "27.08.2023",
+    "author": "Saibot",
+    "forMap":"",
+    "name": "Only_Spears_With_AI",
+    "description": "Effectively disables the use of swords and bows by removing them from the map and changing production values to 0. AI stays enabled",
+    "scriptSha256": "AEE45EDEB9006CE0B452F6FE3914291C5AAA52259F142A13F9D8F4B70F6A7BDA",
+    "scriptUrl": "https://raw.githubusercontent.com/settlers-united/S3-Skripte/main/global/Only_Spears_With_AI.json"
+  },
+  {
+    "scriptType":"global",
+    "createdAt": "27.08.2023",
+    "author": "Saibot",
+    "forMap":"",
+    "name": "Only_Swords_No_AI",
+    "description": "Effectively disables the use of spears and bows by removing them from the map and changing production values to 0. Also disables AI",
+    "scriptSha256": "779AD0BAC6C52A8AF1AD32B80B9A007A4AD88B0B2D6C4C1FE434764D59EA7F57",
+    "scriptUrl": "https://raw.githubusercontent.com/settlers-united/S3-Skripte/main/global/Only_Swords_No_AI.json"
+  },
+  {
+    "scriptType":"global",
+    "createdAt": "27.08.2023",
+    "author": "Saibot",
+    "forMap":"",
+    "name": "Only_Swords_With_AI",
+    "description": "Effectively disables the use of spears and bows by removing them from the map and changing production values to 0. AI stays enabled",
+    "scriptSha256": "C443B0F464DAB4A5719A23CDB005D54593F37550E9DDA76AD710623D17BAC08D",
+    "scriptUrl": "https://raw.githubusercontent.com/settlers-united/S3-Skripte/main/global/Only_Swords_With_AI.json"
+  }
+]
