@@ -26,7 +26,7 @@
     "forMap":"0_ARENA_TEST_12er.map",
     "name": "Default",
     "description": "Sword, Bow, Spear or Mana can be selected by the player, spawning it at the players Base. Players can battle themselves without building.",
-    "scriptSha256": "350831D423B6874A3D7238CC975F1926F2FE10EDF366B75C2112E15C534FBECA",
+    "scriptSha256": "AE1148656EEB9B952A193B091D1D080654653CBCA7B7CBD64568C48CD4FF80D9",
     "scriptUrl": "https://raw.githubusercontent.com/settlers-united/S3-Skripte/main/maps/0_ARENA_TEST_12er/Default.json"
   },
   {
