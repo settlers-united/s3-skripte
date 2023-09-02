@@ -14,20 +14,10 @@
     "createdAt": "28.08.2023",
     "author": "Saibot",
     "forMap":"Art_Of_Defense_SNAKE.map",
-    "name": "Default",
-    "description": "spawns the default units",
-    "scriptSha256": "90E83F38DA83735EFD277BC2E83A4A99C2432F9D47F6F4D8F4B980E68E5F94FD",
-    "scriptUrl": "https://raw.githubusercontent.com/settlers-united/S3-Skripte/main/maps/Art_Of_Defense_SNAKE/Default.json"
-  },
-  {
-    "scriptType":"map",
-    "createdAt": "28.08.2023",
-    "author": "Saibot",
-    "forMap":"Art_Of_Defense_SNAKE.map",
-    "name": "Easy",
-    "description": "spawns the Units with Easy difficulty.",
-    "scriptSha256": "D3E7D9D11A78C3F76CC81D7B4185AF671B1DC27186E4CC7E79C37954EBCAEE6A",
-    "scriptUrl": "https://raw.githubusercontent.com/settlers-united/S3-Skripte/main/maps/Art_Of_Defense_SNAKE/Easy.json"
+    "name": "Default - 100 Waves",
+    "description": "Spawns the default units, has AI for Roman",
+    "scriptSha256": "3F45AA11AE14E5D7F03D9BB3DE3C1854E9AF4345AEF036EFE9385711A0B17FCD",
+    "scriptUrl": "https://raw.githubusercontent.com/settlers-united/S3-Skripte/main/maps/Art_Of_Defense_SNAKE/Default - 100 Waves.json"
   },
   {
     "scriptType":"map",
