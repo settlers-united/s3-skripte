@@ -16,7 +16,7 @@
     "forMap":"Art_Of_Defense_SNAKE.map",
     "name": "Default - 100 Waves",
     "description": "Spawns the default units, has AI for Roman",
-    "scriptSha256": "3F45AA11AE14E5D7F03D9BB3DE3C1854E9AF4345AEF036EFE9385711A0B17FCD",
+    "scriptSha256": "6B4F7BE9A1B5E0B23327C0EE442ED3353B0F20560CC8175B40AC02D441CDCF7A",
     "scriptUrl": "https://raw.githubusercontent.com/settlers-united/S3-Skripte/main/maps/Art_Of_Defense_SNAKE/Default - 100 Waves.json"
   },
   {
