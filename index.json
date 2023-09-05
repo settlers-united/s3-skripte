@@ -21,6 +21,16 @@
   },
   {
     "scriptType":"map",
+    "createdAt": "05.09.2023",
+    "author": "Saibot",
+    "forMap":"Art_Of_Defense_SNAKE.map",
+    "name": "Default - 100 Waves - no AI",
+    "description": "Spawns the default units, has no AI",
+    "scriptSha256": "945C492339212BF574CF62837DF53BF0253E8CC790AD43117AD0C2720B604058",
+    "scriptUrl": "https://raw.githubusercontent.com/settlers-united/S3-Skripte/main/maps/Art_Of_Defense_SNAKE/Default - 100 Waves - no AI.json"
+  },
+  {
+    "scriptType":"map",
     "createdAt": "28.08.2023",
     "author": "Saibot",
     "forMap":"0_ARENA_TEST_12er.map",
