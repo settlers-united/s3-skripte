@@ -178,5 +178,16 @@
     "description": "Effectively disables the use of spears and bows by removing them from the map and changing production values to 0. AI stays enabled",
     "scriptSha256": "C443B0F464DAB4A5719A23CDB005D54593F37550E9DDA76AD710623D17BAC08D",
     "scriptUrl": "https://raw.githubusercontent.com/settlers-united/S3-Skripte/main/global/Only_Swords_With_AI.json"
-  }
+  },{
+  "scriptType":"global",
+  "createdAt": "11.09.2023",
+  "author": "Lord Helmchen",
+  "forMap":"",
+  "name": "Crush_Barracks_On_Player_Loose",
+  "description": "it's main function is to delete the barracks of a player(AI) when it's defeated, as in its last tower has been captured",
+  "scriptSha256": "D807CCDBE8629BD7BFFB85AC6171D1C47D251275710ABAC84561895799B99C87",
+  "scriptUrl": "https://raw.githubusercontent.com/settlers-united/S3-Skripte/main/global/Crush_Barracks_On_Player_Loose.json"
+}
+
+
 ]
