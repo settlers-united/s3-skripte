@@ -35,7 +35,7 @@
     "author": "Saibot",
     "forMap":"0_ARENA_TEST_12er.map",
     "name": "Default",
-    "description": "Sword, Bow, Spear or Mana can be selected by the player, spawning it at the players Base. Players can battle themselves without building.",
+    "description": "Sword, Bow, Spear or Mana can be selected by the player,</br> spawning it at the players Base. Players can battle themselves without building.",
     "scriptSha256": "AE1148656EEB9B952A193B091D1D080654653CBCA7B7CBD64568C48CD4FF80D9",
     "scriptUrl": "https://raw.githubusercontent.com/settlers-united/S3-Skripte/main/maps/0_ARENA_TEST_12er/Default.json"
   },
@@ -46,7 +46,7 @@
     "forMap":"DefendTheOasis.map",
     "name": "Defend The Oasis",
     "description": "This is a scripted three-player map created by Fearles. Your objective is to defend the large tower in the middle for 90 minutes against waves of enemies swarming the green lands of the Oasis from all directions. Venture into the desert to claim additional resources spawning in three special locations around you. Be quick though, enemies will send patrols there, and goods disappear 5 minutes after you receive the message from your scouts. With each wave, the enemies will grow stronger. Occasionally, they might also use unconventional methods of aggression. Be ready for everything!",
-    "scriptSha256": "62625D923B099D11E1FA623B2C115DEE6FDD0E66CD47BFB22DF9AF412303EF0E",
+    "scriptSha256": "CF3C2B1DAA4D64EC46C4DBED116D79E2AE1878742C0F2D625F74887B91F17B6C",
     "scriptUrl": "https://raw.githubusercontent.com/settlers-united/S3-Skripte/main/maps/DefendTheOasis/DefendTheOasis.json"
   },
   {
