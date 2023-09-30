@@ -30,6 +30,25 @@
     "scriptUrl": "https://raw.githubusercontent.com/settlers-united/S3-Skripte/main/maps/Art_Of_Defense_SNAKE/Default - 100 Waves - no AI.json"
   },
   {
+  "scriptType":"map",
+  "createdAt": "30.09.2023",
+  "author": "Saibot",
+  "forMap":"Art_Of_Defense_SNAKE.map",
+  "name": "Default - 100 Waves - Random AI",
+  "description": "Spawns the default units, has the Random AI enabled",
+  "scriptSha256": "CA352A46DBD939D7C2AD5F31F34D06A58084188170FFF208B88D0865ECB39CB3",
+  "scriptUrl": "https://raw.githubusercontent.com/settlers-united/S3-Skripte/main/maps/Art_Of_Defense_SNAKE/Default - 100 Waves - Random AI.json"
+}, {
+  "scriptType":"map",
+  "createdAt": "30.09.2023",
+  "author": "Saibot",
+  "forMap":"Art_Of_Defense_SNAKE.map",
+  "name": "Default - 100 Waves - with new AI",
+  "description": "Spawns the default units, has map defined AI (with building queue)",
+  "scriptSha256": "D5FC5EBD16DE2E82F811296602E85D8BC061CC46D6BD83F811E4D3CD7241CE52",
+  "scriptUrl": "https://raw.githubusercontent.com/settlers-united/S3-Skripte/main/maps/Art_Of_Defense_SNAKE/Default - 100 Waves - new AI.json"
+},
+  {
     "scriptType":"map",
     "createdAt": "28.08.2023",
     "author": "Saibot",
