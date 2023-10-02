@@ -45,7 +45,7 @@
   "forMap":"Art_Of_Defense_SNAKE.map",
   "name": "Default - 100 Waves - with new AI",
   "description": "Testversion only. do not play. Spawns the default units, has map defined AI (with building queue)",
-  "scriptSha256": "4775526D60F6548C0473F3AD11871E53CD9488559ADBF8286D4BEDC4F37FF4DC",
+  "scriptSha256": "2A7D296F1A8D396C8D109D714807E043BBC8310F467CDDCDC3A90197D4A19220",
   "scriptUrl": "https://raw.githubusercontent.com/settlers-united/S3-Skripte/main/maps/Art_Of_Defense_SNAKE/Default - 100 Waves - new AI.json"
 },
   {
