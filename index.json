@@ -38,15 +38,6 @@
   "description": "Spawns the default units, has the Random AI enabled",
   "scriptSha256": "CA352A46DBD939D7C2AD5F31F34D06A58084188170FFF208B88D0865ECB39CB3",
   "scriptUrl": "https://raw.githubusercontent.com/settlers-united/S3-Skripte/main/maps/Art_Of_Defense_SNAKE/Default - 100 Waves - Random AI.json"
-}, {
-  "scriptType":"map",
-  "createdAt": "30.09.2023",
-  "author": "Saibot",
-  "forMap":"Art_Of_Defense_SNAKE.map",
-  "name": "Default - 100 Waves - with new AI",
-  "description": "Testversion only. do not play. Spawns the default units, has map defined AI (with building queue)",
-  "scriptSha256": "29C1878397466AA8BA0EA055339C3165F0A0DFB64BFBA10F05C3E5E7234D5378",
-  "scriptUrl": "https://raw.githubusercontent.com/settlers-united/S3-Skripte/main/maps/Art_Of_Defense_SNAKE/Default - 100 Waves - new AI.json"
 },
   {
     "scriptType":"map",
@@ -64,8 +55,8 @@
     "author": "Fearles",
     "forMap":"DefendTheOasis.map",
     "name": "Defend The Oasis",
-    "description": "This is a scripted three-player map created by Fearles. Your objective is to defend the large tower in the middle for 90 minutes against waves of enemies swarming the green lands of the Oasis from all directions. Venture into the desert to claim additional resources spawning in three special locations around you. Be quick though, enemies will send patrols there, and goods disappear 5 minutes after you receive the message from your scouts. With each wave, the enemies will grow stronger. Occasionally, they might also use unconventional methods of aggression. Be ready for everything!",
-    "scriptSha256": "9E4141B82BE4157BFCF1941CF7308EAE92DC8FC578ED7DB43BAC40AFDE8DB8F2",
+    "description": "This is a scripted three-player map created by Fearles. Your objective is to defend the large tower in the middle for 90 minutes against waves of enemies swarming the green lands of the Oasis from all directions. Venture into the desert to claim additional resources spawning in three special locations around you. Be quick though, enemies will send patrols there, and goods disappear 5 minutes after you receive the message from your scouts. With each wave, the enemies will grow stronger. Occasionally, they might also use unconventional methods of aggression. Be ready for everything! (Updated @ 05.10.2023)",
+    "scriptSha256": "919385F78CA3CD7BBEAF115631378EC12F3FEDF24886B93E33ED5A5DD9292C68",
     "scriptUrl": "https://raw.githubusercontent.com/settlers-united/S3-Skripte/main/maps/DefendTheOasis/DefendTheOasis.json"
   },
   {
