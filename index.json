@@ -60,6 +60,16 @@
     "scriptUrl": "https://raw.githubusercontent.com/settlers-united/S3-Skripte/main/maps/DefendTheOasis/DefendTheOasis.json"
   },
   {
+    "scriptType":"map",
+    "createdAt": "23.09.2023",
+    "author": "Fearles",
+    "forMap":"DefendTheOasis.map",
+    "name": "DesyncTest",
+    "description": "Do not use this script (Updated @ 07.10.2023)",
+    "scriptSha256": "3BF8A51560F4520DF9F22939E266C3813F1C3419B0313DEB3628F989E565B0A6",
+    "scriptUrl": "https://raw.githubusercontent.com/settlers-united/S3-Skripte/main/maps/DefendTheOasis/DefendTheOasis.desynctest.json"
+  },
+  {
     "scriptType":"global",
     "createdAt": "27.08.2023",
     "author": "Saibot",
