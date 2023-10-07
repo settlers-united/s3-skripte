@@ -67,7 +67,7 @@
     "name": "DesyncTest",
     "description": "Do not use this script (Updated @ 07.10.2023)",
     "scriptSha256": "3BF8A51560F4520DF9F22939E266C3813F1C3419B0313DEB3628F989E565B0A6",
-    "scriptUrl": "https://raw.githubusercontent.com/settlers-united/S3-Skripte/main/maps/DefendTheOasis/DefendTheOasis.desynctest.json"
+    "scriptUrl": "https://raw.githubusercontent.com/settlers-united/S3-Skripte/main/maps/DefendTheOasis/DefendTheOasisdesynctest.json"
   },
   {
     "scriptType":"global",
