@@ -66,7 +66,7 @@
     "forMap":"DefendTheOasis.map",
     "name": "DesyncTest",
     "description": "Do not use this script (Updated @ 08.10.2023) without pullback movemode",
-    "scriptSha256": "D7546262C1F75493D132744787B1B8A72453DBEB54DD440C3608F41BA3135DC5",
+    "scriptSha256": "AEF9E3ABE2C8413EA8CFDDA66B00A5EA056F0A0BE6F55A5F7F147BFC16B3A1DE",
     "scriptUrl": "https://raw.githubusercontent.com/settlers-united/S3-Skripte/main/maps/DefendTheOasis/DefendTheOasisdesynctest.json"
   },
   {
