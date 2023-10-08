@@ -70,6 +70,16 @@
     "scriptUrl": "https://raw.githubusercontent.com/settlers-united/S3-Skripte/main/maps/DefendTheOasis/DefendTheOasisdesynctest.json"
   },
   {
+    "scriptType":"map",
+    "createdAt": "23.09.2023",
+    "author": "Fearles",
+    "forMap":"DefendTheOasis.map",
+    "name": "DesyncTest_no_pio_sleep",
+    "description": "Do not use this script (Updated @ 08.10.2023) without pio sleep",
+    "scriptSha256": "9A2B16AF0BC0D33CFA8E7FC1EAB56D0D3D4022A0653F3599D47486A6CABB0AD7",
+    "scriptUrl": "https://raw.githubusercontent.com/settlers-united/S3-Skripte/main/maps/DefendTheOasis/DefendTheOasisdesynctestnopiosleep.json"
+  },
+  {
     "scriptType":"global",
     "createdAt": "27.08.2023",
     "author": "Saibot",
