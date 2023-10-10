@@ -213,9 +213,9 @@
   "createdAt": "14.09.2023",
   "author": "Lord Helmchen",
   "forMap":"",
-  "name": "Crush_Barracks_On_AI_Loose",
-  "description": "it's main function is to delete the barracks of a player(AI) when it's defeated, as in its last tower has been captured",
-  "scriptSha256": "2B09CAA96C55696D22B0CF0366000DCA72F6BAADEAF62494658114BC53723D01",
-  "scriptUrl": "https://raw.githubusercontent.com/settlers-united/S3-Skripte/main/global/Crush_Barracks_On_AI_Loose.json"
+  "name": "Crush_All_Buildings_On_AI_Loose.json",
+  "description": "It's main function is to crush the buildings of a player(AI) when it's defeated, as in its last tower has been captured. (Updated at 10.10.2023)",
+  "scriptSha256": "D0AACD1D383F28C103A3BF33D6BDCAF4A321E6F09AD081EF1244CB547E180F6F",
+  "scriptUrl": "https://raw.githubusercontent.com/settlers-united/S3-Skripte/main/global/Crush_All_Buildings_On_AI_Loose.json"
 }
 ]
