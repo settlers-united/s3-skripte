@@ -45,7 +45,7 @@
     "author": "Saibot",
     "forMap":"0_ARENA_TEST_12er.map",
     "name": "Default",
-    "description": "Sword, Bow, Spear or Mana can be selected by the player,</br> spawning it at the players Base. Players can battle themselves without building.",
+    "description": "Sword, Bow, Spear or Mana can be selected by the player, spawning it at the players Base. Players can battle themselves without building.",
     "scriptSha256": "AE1148656EEB9B952A193B091D1D080654653CBCA7B7CBD64568C48CD4FF80D9",
     "scriptUrl": "https://raw.githubusercontent.com/settlers-united/S3-Skripte/main/maps/0_ARENA_TEST_12er/Default.json"
   },
@@ -61,23 +61,13 @@
   },
   {
     "scriptType":"map",
-    "createdAt": "23.09.2023",
-    "author": "Fearles",
+    "createdAt": "16.10.2023",
+    "author": "Saibot",
     "forMap":"DefendTheOasis.map",
-    "name": "DesyncTest",
-    "description": "Do not use this script (Updated @ 08.10.2023) without pullback OLD ONE AGAIN",
-    "scriptSha256": "6A1B3649824D7AA9201018C055725D755D08A88D976A5B8D1B83FAA9F410DE62",
-    "scriptUrl": "https://raw.githubusercontent.com/settlers-united/S3-Skripte/main/maps/DefendTheOasis/DefendTheOasisdesynctest.json"
-  },
-  {
-    "scriptType":"map",
-    "createdAt": "23.09.2023",
-    "author": "Fearles",
-    "forMap":"DefendTheOasis.map",
-    "name": "DesyncTest_no_pio_sleep",
-    "description": "Do not use this script (Updated @ 08.10.2023) without pio sleep",
-    "scriptSha256": "9A2B16AF0BC0D33CFA8E7FC1EAB56D0D3D4022A0653F3599D47486A6CABB0AD7",
-    "scriptUrl": "https://raw.githubusercontent.com/settlers-united/S3-Skripte/main/maps/DefendTheOasis/DefendTheOasisdesynctestnopiosleep.json"
+    "name": "Template Test",
+    "description": "For testing purposes only. Do not use this script",
+    "scriptSha256": "075F1A3628C702A5CA4DD0DD89B5FDB49D8B16EC6A3BDAEEBCD715DFCEAA607C",
+    "scriptUrl": "https://raw.githubusercontent.com/settlers-united/S3-Skripte/main/maps/DefendTheOasis/templateTest.json"
   },
   {
     "scriptType":"global",
