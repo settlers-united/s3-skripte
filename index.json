@@ -65,8 +65,8 @@
     "author": "Saibot",
     "forMap":"DefendTheOasis.map",
     "name": "Template Test",
-    "description": "For testing purposes only. Do not use this script V",
-    "scriptSha256": "0447B194D0E9686FB5AB77A5794238A21E2DCB87DECCA2991AF5A0FACEAE9642",
+    "description": "For testing purposes only. Do not use this script V2",
+    "scriptSha256": "CE90E9D648D1A5DF971FE3E93A2E0758C1B976DF5EB757839A87B93275DBB823",
     "scriptUrl": "https://raw.githubusercontent.com/settlers-united/S3-Skripte/main/maps/DefendTheOasis/templateTest.json"
   },
   {
