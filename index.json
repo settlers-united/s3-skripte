@@ -75,7 +75,7 @@
   "author": "Lord Helmchen",
   "forMap":"",
   "name": "Crush_All_Buildings_On_AI_Loose.json",
-  "description": "It's main function is to crush the buildings of a player(AI) when it's defeated, as in its last tower has been captured. (Updated at 10.10.2023)",
+  "description": "It's main function is to crush the buildings of a player(AI) when it's defeated, as in its last tower has been captured. (Updated at 26.10.2023)",
   "scriptSha256": "361ECEB3ECE65BB9D963CA51A48E901435C082FD9246D8C2FB3C53FE5703A19B",
   "scriptUrl": "https://raw.githubusercontent.com/settlers-united/S3-Skripte/main/global/Crush_All_Buildings_On_AI_Loose.json"
 },
