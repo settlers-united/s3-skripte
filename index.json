@@ -70,6 +70,16 @@
     "scriptUrl": "https://raw.githubusercontent.com/settlers-united/S3-Skripte/main/maps/DefendTheOasis/templateTest.json"
   },
   {
+  "scriptType":"global",
+  "createdAt": "14.09.2023",
+  "author": "Lord Helmchen",
+  "forMap":"",
+  "name": "Crush_All_Buildings_On_AI_Loose.json",
+  "description": "It's main function is to crush the buildings of a player(AI) when it's defeated, as in its last tower has been captured. (Updated at 10.10.2023)",
+  "scriptSha256": "361ECEB3ECE65BB9D963CA51A48E901435C082FD9246D8C2FB3C53FE5703A19B",
+  "scriptUrl": "https://raw.githubusercontent.com/settlers-united/S3-Skripte/main/global/Crush_All_Buildings_On_AI_Loose.json"
+},
+  {
     "scriptType":"global",
     "createdAt": "27.08.2023",
     "author": "Saibot",
@@ -198,14 +208,5 @@
     "description": "Effectively disables the use of spears and bows by removing them from the map and changing production values to 0. AI stays enabled",
     "scriptSha256": "C443B0F464DAB4A5719A23CDB005D54593F37550E9DDA76AD710623D17BAC08D",
     "scriptUrl": "https://raw.githubusercontent.com/settlers-united/S3-Skripte/main/global/Only_Swords_With_AI.json"
-  },{
-  "scriptType":"global",
-  "createdAt": "14.09.2023",
-  "author": "Lord Helmchen",
-  "forMap":"",
-  "name": "Crush_All_Buildings_On_AI_Loose.json",
-  "description": "It's main function is to crush the buildings of a player(AI) when it's defeated, as in its last tower has been captured. (Updated at 10.10.2023)",
-  "scriptSha256": "D0AACD1D383F28C103A3BF33D6BDCAF4A321E6F09AD081EF1244CB547E180F6F",
-  "scriptUrl": "https://raw.githubusercontent.com/settlers-united/S3-Skripte/main/global/Crush_All_Buildings_On_AI_Loose.json"
-}
+  }
 ]
