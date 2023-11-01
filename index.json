@@ -55,8 +55,8 @@
     "author": "Fearles",
     "forMap":"DefendTheOasis.map",
     "name": "Defend The Oasis",
-    "description": "This is a scripted three-player map created by Fearles. Your objective is to defend the large tower in the middle for 90 minutes against waves of enemies swarming the green lands of the Oasis from all directions. Venture into the desert to claim additional resources spawning in three special locations around you. Be quick though, enemies will send patrols there, and goods disappear 5 minutes after you receive the message from your scouts. With each wave, the enemies will grow stronger. Occasionally, they might also use unconventional methods of aggression. Be ready for everything! (Updated @ 01.11.2023 V2)",
-    "scriptSha256": "348472A1B690095419262E3F1FBE5B699EC2D24025B0B0C5C0C3F5F2FFBE73FE",
+    "description": "This is a scripted three-player map created by Fearles. Your objective is to defend the large tower in the middle for 90 minutes against waves of enemies swarming the green lands of the Oasis from all directions. Venture into the desert to claim additional resources spawning in three special locations around you. Be quick though, enemies will send patrols there, and goods disappear 5 minutes after you receive the message from your scouts. With each wave, the enemies will grow stronger. Occasionally, they might also use unconventional methods of aggression. Be ready for everything! (Updated @ 01.11.2023 V3)",
+    "scriptSha256": "FD30100C9BABD7CDA53D3949924D2BAE0CB7A759EF46E429275F229FBC8C48D8",
     "scriptUrl": "https://raw.githubusercontent.com/settlers-united/S3-Skripte/main/maps/DefendTheOasis/DefendTheOasis.json"
   },
   {
