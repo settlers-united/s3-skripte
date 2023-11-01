@@ -55,19 +55,9 @@
     "author": "Fearles",
     "forMap":"DefendTheOasis.map",
     "name": "Defend The Oasis",
-    "description": "This is a scripted three-player map created by Fearles. Your objective is to defend the large tower in the middle for 90 minutes against waves of enemies swarming the green lands of the Oasis from all directions. Venture into the desert to claim additional resources spawning in three special locations around you. Be quick though, enemies will send patrols there, and goods disappear 5 minutes after you receive the message from your scouts. With each wave, the enemies will grow stronger. Occasionally, they might also use unconventional methods of aggression. Be ready for everything! (Updated @ 08.10.2023)",
-    "scriptSha256": "D548B88C3A1D8A0C7B840B5CAD65B0EBA3FC8AB9E49109660AA2613BD8D7ACF0",
+    "description": "This is a scripted three-player map created by Fearles. Your objective is to defend the large tower in the middle for 90 minutes against waves of enemies swarming the green lands of the Oasis from all directions. Venture into the desert to claim additional resources spawning in three special locations around you. Be quick though, enemies will send patrols there, and goods disappear 5 minutes after you receive the message from your scouts. With each wave, the enemies will grow stronger. Occasionally, they might also use unconventional methods of aggression. Be ready for everything! (Updated @ 01.11.2023)",
+    "scriptSha256": "AC6364394ECB4A2CBCAD42168B0773FB6149642194E7164EB1B1FD347203CF03",
     "scriptUrl": "https://raw.githubusercontent.com/settlers-united/S3-Skripte/main/maps/DefendTheOasis/DefendTheOasis.json"
-  },
-  {
-    "scriptType":"map",
-    "createdAt": "16.10.2023",
-    "author": "Saibot",
-    "forMap":"DefendTheOasis.map",
-    "name": "Template Test",
-    "description": "For testing purposes only. Do not use this script V2",
-    "scriptSha256": "CE90E9D648D1A5DF971FE3E93A2E0758C1B976DF5EB757839A87B93275DBB823",
-    "scriptUrl": "https://raw.githubusercontent.com/settlers-united/S3-Skripte/main/maps/DefendTheOasis/templateTest.json"
   },
   {
   "scriptType":"global",
