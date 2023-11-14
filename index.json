@@ -199,4 +199,15 @@
     "scriptSha256": "C443B0F464DAB4A5719A23CDB005D54593F37550E9DDA76AD710623D17BAC08D",
     "scriptUrl": "https://raw.githubusercontent.com/settlers-united/S3-Skripte/main/global/Only_Swords_With_AI.json"
   }
+,
+  {
+    "scriptType":"global",
+    "createdAt": "14.11.2023",
+    "author": "Saibot",
+    "forMap":"",
+    "name": "Broken dont use",
+    "description": "Effectively disables the use of spears and bows by removing them from the map and changing production values to 0. AI stays enabled",
+    "scriptSha256": "C443wrongTestD",
+    "scriptUrl": "https://raw.githubusercontent.com/settlers-united/S3-Skripte/main/global/Only_Swords_With_AI.json"
+  }
 ]
