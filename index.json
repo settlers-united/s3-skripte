@@ -68,7 +68,7 @@
     "name": "oaza2",
     "description": "Testscript? (Updated @ 26.11.2023)",
     "scriptSha256": "3C14FB15550F821323B0EA9B614D03388E3DC79067E8DF37139EB736119494A1",
-    "scriptUrl": "https://raw.githubusercontent.com/settlers-united/S3-Skripte/main/maps/Oaza2/oaza2.json"
+    "scriptUrl": "https://raw.githubusercontent.com/settlers-united/S3-Skripte/main/maps/oaza2/oaza2.json"
   },
   {
   "scriptType":"global",
