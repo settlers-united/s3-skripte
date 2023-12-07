@@ -1,15 +1,5 @@
 [
   {
-    "scriptType":"global",
-    "createdAt": "28.08.2023",
-    "author": "Saibot",
-    "forMap":"",
-    "name": "Print AI Defeat Message",
-    "description": "Prints the defeat message for Ai player 1 - 4 if they do not have a tower anymore.",
-    "scriptSha256": "EC2F4E2F775D6E9B02584E30FE4B4881206452CEBBD4FCF5866C22C7826314F9",
-    "scriptUrl": "https://raw.githubusercontent.com/settlers-united/S3-Skripte/main/global/playerisDeadMessageP1-P4.json"
-  },
-  {
     "scriptType":"map",
     "createdAt": "28.08.2023",
     "author": "Saibot",
