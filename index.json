@@ -76,8 +76,8 @@
     "author": "Saibot",
     "forMap":"",
     "name": "Hunt_The_Pope",
-    "description": "A Player looses if they dont have a priest after minute 35. Once they have a priest BigTemples are crushed.",
-    "scriptSha256": "49112797E88F622DA78919AA7023D0F97291AA1869B5FC3666C0D885DF5934CD",
+    "description": "A Player looses if they dont have a priest after minute 35. Once they have a priest - BigTemples are crushed. (Updated at 17.12.2023)",
+    "scriptSha256": "E13B6D36F3CAB94CAE72EE99A1AF343C6AD31F628AD17DFB99F423AB9C9E02E0",
     "scriptUrl": "https://raw.githubusercontent.com/settlers-united/S3-Skripte/main/global/Hunt_The_Pope.json"
   },
   {
