@@ -5,8 +5,8 @@
     "author": "MutenRoshi",
     "forMap":"768_Art_Of_Defense_SNAKE.map",
     "name": "Default - 100 Waves",
-    "description": "Spawns the default units. 100  Waves. Updated @ 22:32 02.01.2024",
-    "scriptSha256": "01A7ECC2E3F5009924C09076FE2DB7714807DC26FF6476CF20CAD28C71FA0453",
+    "description": "Spawns the default units. 100  Waves. Updated @ 23:34 02.01.2024",
+    "scriptSha256": "9BD7058DB25FCD4257D6932D281AB4E5EF4568FCCD5E82C5F6A1C185C95769D5",
     "scriptUrl": "https://raw.githubusercontent.com/settlers-united/s3-skripte/main/maps/768_Art_Of_Defense_SNAKE/DEFAULT_100_waves.json"
   },
   {
