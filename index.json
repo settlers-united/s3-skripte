@@ -7,7 +7,7 @@
     "name": "Default - 100 Waves",
     "description": "Spawns the default units. 100  Waves.",
     "scriptSha256": "B4F444554DB9DDD26BFD97D58B97E3822F970A3D472C7248140A5B7129B3BFDA",
-    "scriptUrl": "https://raw.githubusercontent.com/settlers-united/S3-Skripte/main/maps/Art_Of_Defense_SNAKE/DEFAULT_100_waves.json"
+    "scriptUrl": "https://raw.githubusercontent.com/settlers-united/s3-skripte/main/maps/768_Art_Of_Defense_SNAKE/DEFAULT_100_waves.json"
   },
   {
     "scriptType":"map",
