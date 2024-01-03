@@ -11,6 +11,16 @@
   },
   {
     "scriptType":"map",
+    "createdAt": "03.01.2024",
+    "author": "MutenRoshi",
+    "forMap":"Art_Of_Defense_SNAKEV2.map",
+    "name": "Default - 100 Waves",
+    "description": "Spawns the default units.",
+    "scriptSha256": "9E1EB3B504C4ECC8DE6113ED32025DA838B1232269D0595B7D61E2150EB45553",
+    "scriptUrl": "https://raw.githubusercontent.com/settlers-united/S3-Skripte/main/maps/Art_Of_Defense_SNAKEV2/Default - 100 waves.json"
+  },
+  {
+    "scriptType":"map",
     "createdAt": "28.08.2023",
     "author": "Saibot",
     "forMap":"Art_Of_Defense_SNAKE.map",
