@@ -16,7 +16,7 @@
     "forMap":"Art_Of_Defense_SNAKEV2.map",
     "name": "Default - 100 Waves",
     "description": "Spawns the default units.",
-    "scriptSha256": "F3BE464ED932A88F397D8DB3CEF18C0FA8D53B2EBB6BB6C1B950486ED0BEAC54",
+    "scriptSha256": "8F45777E2A03DC9E476FA0EEC5D96EC771A426AAFA0DEA4069EC74ECACB5E943",
     "scriptUrl": "https://raw.githubusercontent.com/settlers-united/s3-skripte/main/maps/Art_Of_Defense_SNAKEV2/Default%20-%20100%20waves.json"
   },
   {
