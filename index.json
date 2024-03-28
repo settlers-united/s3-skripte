@@ -1,6 +1,16 @@
 [
   {
     "scriptType":"map",
+    "createdAt": "28.03.2024",
+    "author": "Lord Helmchen",
+    "forMap":"Coop_2v8.map",
+    "name": "Coop_2v8",
+    "description": "Keine beschreibung bereitgestellt. No Description supplied. updated @ 28.03.2024 21:20",
+    "scriptSha256": "5A905C220543C8C6D5641492C7CD75DA9032BE7527F470CD3B38EDD32BE75B42",
+    "scriptUrl": "https://raw.githubusercontent.com/settlers-united/s3-skripte/main/maps/Coop_2v8/Coop_2v8.json"
+  },
+  {
+    "scriptType":"map",
     "createdAt": "10.01.2024",
     "author": "Roxxzor",
     "forMap":"8er_Maze_Skript.map",
