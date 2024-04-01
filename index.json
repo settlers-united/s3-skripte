@@ -3,11 +3,11 @@
     "scriptType":"map",
     "createdAt": "28.03.2024",
     "author": "Lord Helmchen",
-    "forMap":"Coop_2v8.map",
-    "name": "Coop_2v8",
-    "description": "Keine beschreibung bereitgestellt. No Description supplied. updated @ 28.03.2024 21:20",
-    "scriptSha256": "5A905C220543C8C6D5641492C7CD75DA9032BE7527F470CD3B38EDD32BE75B42",
-    "scriptUrl": "https://raw.githubusercontent.com/settlers-united/s3-skripte/main/maps/Coop_2v8/Coop_2v8.json"
+    "forMap":"Coop_2v8_plus_Script.map",
+    "name": "Coop_2v8_plus_Script",
+    "description": "Accompanying script for the Map \"Coop_2v8_plus_Script\". Same functions like the \"Crush_All_Buildings_On_AI_Loose\" + a prio function for Stonecutters for Romans and Egyptians, for when they have no finished Stonecutter anymore. \nKeep the map specific items for an extra challenge, otherwise tick it off. updated @ 01.04.2024 21:20",
+    "scriptSha256": "8AAC14CFA6C518DD0FBE01900E160BC3DDDB00F573E1C829BDA5E66CFD50628C",
+    "scriptUrl": "https://raw.githubusercontent.com/settlers-united/s3-skripte/main/maps/Coop_2v8_plus_Script/Coop_2v8_plus_Script.json"
   },
   {
     "scriptType":"map",
