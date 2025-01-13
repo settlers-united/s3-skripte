@@ -87,8 +87,8 @@
     "author": "Fearles",
     "forMap":"oaza2.map",
     "name": "oaza2",
-    "description": "Testscript? (Updated @ 13.01.2025)",
-    "scriptSha256": "1D862E958D3E71565EBC4575EFD16BB1741256E5FC6A4F5772DBBA7E65FC9F84",
+    "description": "Testscript? (Update 2 @ 13.01.2025)",
+    "scriptSha256": "84D51BA155F1667DFF129AE44D046B3C584F0C34497FABADC5143BE0DF0B8CA7",
     "scriptUrl": "https://raw.githubusercontent.com/settlers-united/S3-Skripte/main/maps/Oaza2/oaza2.json"
   },
   {
