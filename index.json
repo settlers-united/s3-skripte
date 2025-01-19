@@ -92,6 +92,16 @@
     "scriptUrl": "https://raw.githubusercontent.com/settlers-united/S3-Skripte/main/maps/Oaza2/oaza2.json"
   },
   {
+  "scriptType":"map",
+  "createdAt": "19.01.2025",
+  "author": "Fearles",
+  "forMap":"oaza2test.map",
+  "name": "oaza2test",
+  "description": "Testscript? (added @ 19.01.2025)",
+  "scriptSha256": "144BC6360FB6748E0EF0314C37D90F5544081B55AA58157A8865D0A0D086651B",
+  "scriptUrl": "https://raw.githubusercontent.com/settlers-united/S3-Skripte/main/maps/oaza2test/oaza2test.json"
+},
+  {
   "scriptType":"global",
   "createdAt": "14.09.2023",
   "author": "Lord Helmchen",
