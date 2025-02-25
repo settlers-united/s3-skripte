@@ -260,8 +260,7 @@
     "description": "Effectively disables the use of spears and bows by removing them from the map and changing production values to 0. AI stays enabled",
     "scriptSha256": "C443B0F464DAB4A5719A23CDB005D54593F37550E9DDA76AD710623D17BAC08D",
     "scriptUrl": "https://raw.githubusercontent.com/settlers-united/S3-Skripte/main/global/Only_Swords_With_AI.json"
-  }
-,
+  },
   {
     "scriptType":"global",
     "createdAt": "14.11.2023",
@@ -271,5 +270,15 @@
     "description": "Effectively disables the use of spears and bows by removing them from the map and changing production values to 0. AI stays enabled",
     "scriptSha256": "C443wrongTestD",
     "scriptUrl": "https://raw.githubusercontent.com/settlers-united/S3-Skripte/main/global/Only_Swords_With_AI.json"
+  },
+  {
+    "scriptType":"global",
+    "createdAt": "25.02.2025",
+    "author": "Saibot",
+    "forMap":"",
+    "name": "EnableAIThiefs",
+    "description": "Enables AI Thiefes",
+    "scriptSha256": "EF8F27ABF8AC7527DA52B00E6ABB76535FF47832E3001F0E4EA2902C41B91597",
+    "scriptUrl": "https://raw.githubusercontent.com/settlers-united/S3-Skripte/main/global/EnableAIThiefs.json"
   }
 ]
