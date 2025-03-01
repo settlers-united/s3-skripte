@@ -113,14 +113,14 @@
   },
   {
   "scriptType":"map",
-  "createdAt": "19.01.2025",
+  "createdAt": "01.03.2025",
   "author": "Fearles",
-  "forMap":"oaza2test.map",
-  "name": "oaza2test",
-  "description": "Testscript? (added @ 19.01.2025)",
-  "scriptSha256": "144BC6360FB6748E0EF0314C37D90F5544081B55AA58157A8865D0A0D086651B",
-  "scriptUrl": "https://raw.githubusercontent.com/settlers-united/S3-Skripte/main/maps/oaza2test/oaza2test.json"
-},
+  "forMap":"coopOASIS.map",
+  "name": "coopOASIS",
+  "description": "coopOASIS (Update @ 01.03.2025)",
+  "scriptSha256": "c246906cb31ce2497009a7521129d15137355ec0e6e90b3152ba3d28763a7cc4",
+  "scriptUrl": "https://raw.githubusercontent.com/settlers-united/S3-Skripte/main/maps/coopOASIS/coopOASIS.json"
+  },
   {
   "scriptType":"global",
   "createdAt": "14.09.2023",
