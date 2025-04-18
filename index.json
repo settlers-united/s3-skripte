@@ -47,7 +47,7 @@
     "forMap":"Art_Of_Defense_SNAKE.map",
     "name": "Default - 100 Waves",
     "description": "Spawns the default units, has AI optimized for Roman. Last updated on 01.01.2024",
-    "scriptSha256": "D4AE0B4BB00792C5899D2699755A820C6D3FE09DD068DB515FDE4F31F99D8BB1",
+    "scriptSha256": "ECF973AB5590D682A7EAE68CE4B82EBC01B11093FE21545D74960D092997C564",
     "scriptUrl": "https://raw.githubusercontent.com/settlers-united/S3-Skripte/main/maps/Art_Of_Defense_SNAKE/Default - 100 Waves.json"
   },
   {
@@ -59,26 +59,6 @@
     "description": "Spawns the default units, has no AI. Updated @ 01.01.2024",
     "scriptSha256": "2FC56634AFC2700F1926001ABD995D6701A60F01548FAABD6C056670E280929E",
     "scriptUrl": "https://raw.githubusercontent.com/settlers-united/S3-Skripte/main/maps/Art_Of_Defense_SNAKE/Default - 100 Waves - no AI.json"
-  },
-  {
-    "scriptType":"map",
-    "createdAt": "09.02.2025",
-    "author": "Saibot",
-    "forMap":"Art_Of_Defense_SNAKE.map",
-    "name": "Default - 100 Waves - no AI - v7",
-    "description": "Spawns the default units, has no AI. Updated @ 09.02.2025 V2",
-    "scriptSha256": "BCEE678B1D32303036978F68AB5B802C21820FF3E51ACF82558606E45E36AB14",
-    "scriptUrl": "https://raw.githubusercontent.com/settlers-united/S3-Skripte/main/maps/Art_Of_Defense_SNAKE/Default - 100 Waves - no AI - v7.json"
-  },
-  {
-    "scriptType":"map",
-    "createdAt": "09.02.2025",
-    "author": "Saibot",
-    "forMap":"Art_Of_Defense_SNAKE.map",
-    "name": "Default - 100 Waves - v7",
-    "description": "Spawns the default units, has default roman AI. Updated @ 09.02.2025 ",
-    "scriptSha256": "4C262E35477D3521BBF6D1E896D20D04936C76C976A6F31F30F85602D7795C8A",
-    "scriptUrl": "https://raw.githubusercontent.com/settlers-united/S3-Skripte/main/maps/Art_Of_Defense_SNAKE/Default - 100 Waves - v7.json"
   },
   {
     "scriptType":"map",
@@ -259,16 +239,6 @@
     "name": "Only_Swords_With_AI",
     "description": "Effectively disables the use of spears and bows by removing them from the map and changing production values to 0. AI stays enabled",
     "scriptSha256": "C443B0F464DAB4A5719A23CDB005D54593F37550E9DDA76AD710623D17BAC08D",
-    "scriptUrl": "https://raw.githubusercontent.com/settlers-united/S3-Skripte/main/global/Only_Swords_With_AI.json"
-  },
-  {
-    "scriptType":"global",
-    "createdAt": "14.11.2023",
-    "author": "Saibot",
-    "forMap":"",
-    "name": "Broken dont use",
-    "description": "Effectively disables the use of spears and bows by removing them from the map and changing production values to 0. AI stays enabled",
-    "scriptSha256": "C443wrongTestD",
     "scriptUrl": "https://raw.githubusercontent.com/settlers-united/S3-Skripte/main/global/Only_Swords_With_AI.json"
   },
   {
