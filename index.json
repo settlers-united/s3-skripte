@@ -83,6 +83,28 @@
   },
   {
     "scriptType":"map",
+    "createdAt": "20.04.2025",
+    "author": "Saibot",
+    "forMap":"Art_Of_Defense_SNAKE.map",
+    "name": "testscript",
+    "description": "Testscript. do not use(Updated @ 20.04.2025)",
+    "scriptSha256": "942CAEBE5E92948C27C998AFEE07FCC0C63E5E0EAFE6E748D7DAA8091B5DB8B4",
+    "scriptUrl": "https://raw.githubusercontent.com/settlers-united/S3-Skripte/main/maps/Art_Of_Defense_SNAKE/testscript.json",
+    "assetUrl": "https://github.com/settlers-united/s3-skripte/raw/main/maps/Art_Of_Defense_SNAKE/testscript.zip"
+  },
+  {
+    "scriptType":"global",
+    "createdAt": "20.04.2025",
+    "author": "Saibot",
+    "forMap":"",
+    "name": "testscript",
+    "description": "Testscript. do not use(Updated @ 20.04.2025)",
+    "scriptSha256": "942CAEBE5E92948C27C998AFEE07FCC0C63E5E0EAFE6E748D7DAA8091B5DB8B4",
+    "scriptUrl": "https://raw.githubusercontent.com/settlers-united/S3-Skripte/main/global/testscript.json",
+    "assetUrl": "https://github.com/settlers-united/s3-skripte/raw/main/global/testscript.zip"
+  },
+  {
+    "scriptType":"map",
     "createdAt": "26.11.2023",
     "author": "Fearles",
     "forMap":"oaza2.map",
