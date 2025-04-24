@@ -130,7 +130,7 @@
     "forMap":"Art_Of_Defense_TORNADO.map",
     "name": "EASY",
     "description": "In this map you need to get rid of the enemies that spawn in random edges around you. You have 60 minutes until your buildings would collaps because of strong winds. Can you survive?",
-    "scriptSha256": "D8B771257E2461FB49773B34BDE5CB3EEFA6C9FE317D5FF92352F9339FD635FC",
+    "scriptSha256": "E5CECA818B92F4D140F0A6D224A2A80BA26A191362614E3FAAB2DEAFCC8643EB",
     "scriptUrl": "https://raw.githubusercontent.com/settlers-united/S3-Skripte/main/maps/Art_Of_Defense_TORNADO/EASY.json"
   },
   {
@@ -139,8 +139,8 @@
     "author": "Saibot",
     "forMap":"Art_Of_Defense_TORNADO.map",
     "name": "NORMAL",
-    "description": "In this map you need to get rid of the enemies that spawn in random edges around you. You have 60 minutes until your buildings would collaps because of strong winds. Can you survive? (Updated 24.04.2025)",
-    "scriptSha256": "DC14EA553763FEE17840DC44AC1E6C9A5689190EAB99B3477AE9B9077A8D4DBD",
+    "description": "In this map you need to get rid of the enemies that spawn in random edges around you. You have 60 minutes until your buildings would collaps because of strong winds. Can you survive? (Updated 3 24.04.2025)",
+    "scriptSha256": "A2231D1562BDA8858D1DF65EB04846EEC9372124823EAEA57630FB21EE2B6552",
     "scriptUrl": "https://raw.githubusercontent.com/settlers-united/S3-Skripte/main/maps/Art_Of_Defense_TORNADO/NORMAL.json"
   },
   {
@@ -149,7 +149,7 @@
     "author": "Saibot",
     "forMap":"Art_Of_Defense_TORNADO.map",
     "name": "HARD",
-    "description": "In this map you need to get rid of the enemies that spawn in random edges around you. You have 60 minutes until your buildings would collaps because of strong winds. Can you survive? (Updated 2 24.04.2025)",
+    "description": "In this map you need to get rid of the enemies that spawn in random edges around you. You have 60 minutes until your buildings would collaps because of strong winds. Can you survive? (Updated 3 24.04.2025)",
     "scriptSha256": "364D1AE143FC3AE102D7499994EB5FB992623BE1D600FF48D7EA21B56FE18B12",
     "scriptUrl": "https://raw.githubusercontent.com/settlers-united/S3-Skripte/main/maps/Art_Of_Defense_TORNADO/HARD.json"
   },
