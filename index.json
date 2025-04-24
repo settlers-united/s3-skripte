@@ -149,8 +149,8 @@
     "author": "Saibot",
     "forMap":"Art_Of_Defense_TORNADO.map",
     "name": "HARD",
-    "description": "In this map you need to get rid of the enemies that spawn in random edges around you. You have 60 minutes until your buildings would collaps because of strong winds. Can you survive? (Updated 24.04.2025)",
-    "scriptSha256": "CDB80DE045F6F16B255D91CFC54607A9589E89E05DBD4AC1BE09FF64F27CFD2E",
+    "description": "In this map you need to get rid of the enemies that spawn in random edges around you. You have 60 minutes until your buildings would collaps because of strong winds. Can you survive? (Updated 2 24.04.2025)",
+    "scriptSha256": "364D1AE143FC3AE102D7499994EB5FB992623BE1D600FF48D7EA21B56FE18B12",
     "scriptUrl": "https://raw.githubusercontent.com/settlers-united/S3-Skripte/main/maps/Art_Of_Defense_TORNADO/HARD.json"
   },
   {
