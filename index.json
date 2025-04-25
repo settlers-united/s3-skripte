@@ -130,7 +130,7 @@
     "forMap":"Art_Of_Defense_TORNADO.map",
     "name": "EASY",
     "description": "In this map you need to get rid of the enemies that spawn in random edges around you. You have 60 minutes until your buildings would collaps because of strong winds. Can you survive?",
-    "scriptSha256": "E5CECA818B92F4D140F0A6D224A2A80BA26A191362614E3FAAB2DEAFCC8643EB",
+    "scriptSha256": "D3C20AAB1D14C9035EEF2B864967DFA30EE554BB6C89D4000EDAEC75621CD1A5",
     "scriptUrl": "https://raw.githubusercontent.com/settlers-united/S3-Skripte/main/maps/Art_Of_Defense_TORNADO/EASY.json"
   },
   {
