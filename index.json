@@ -165,6 +165,16 @@
 },
   {
     "scriptType":"global",
+    "createdAt": "29.05.2025",
+    "author": "Lord Helmchen",
+    "forMap":"",
+    "name": "Crush_All_Buildings_On_AI_Loose_And_Endless_Resources_And_Thieves",
+    "description": "It's main function is to crush the buildings of a player(AI) when it's defeated, as in its last tower has been captured. (Updated at 29.05.2025)",
+    "scriptSha256": "933DE114AF53D74823ACB86618E9C1C5B77FDD459447C6A511F8581ECC867BF8",
+    "scriptUrl": "https://raw.githubusercontent.com/settlers-united/S3-Skripte/main/global/Crush_All_Buildings_On_AI_Loose_And_Endless_Resources_And_Thieves.json"
+  },
+  {
+    "scriptType":"global",
     "createdAt": "27.08.2023",
     "author": "Saibot",
     "forMap":"",
