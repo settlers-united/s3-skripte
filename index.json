@@ -119,8 +119,8 @@
   "author": "Fearles",
   "forMap":"coopOASIS.map",
   "name": "coopOASIS",
-  "description": "coopOASIS (Update @ 01.03.2025)",
-  "scriptSha256": "c246906cb31ce2497009a7521129d15137355ec0e6e90b3152ba3d28763a7cc4",
+  "description": "coopOASIS (Update @ 30.13.2025)",
+  "scriptSha256": "72e2e4a4c450867ed0834643afe3bb91f0b25c704d926d940f7971592a2fe5b9",
   "scriptUrl": "https://raw.githubusercontent.com/settlers-united/S3-Skripte/main/maps/coopOASIS/coopOASIS.json"
   },
   {
